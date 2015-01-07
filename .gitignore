@@ -1,0 +1,8 @@
+tmp
+bin
+build
+.settings
+*.class
+*.pyc
+*.pyo
+.DS_Store

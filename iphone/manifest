@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiIOS8WebviewFIx
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiIOS8WebviewFIx
+moduleid: de.marcelpociot.ios8webviewfix
+guid: 64a6fc4f-f57b-453b-91c9-0677c8709f9d
+platform: iphone
+minsdk: 3.4.1.GA
