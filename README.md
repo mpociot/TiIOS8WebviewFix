@@ -4,7 +4,9 @@ So this is a very quick module that I needed because of an iOS 8+ issue (up to 8
 
 When closing / opening the dropdown popover multiple times, iPad apps will eventually crash with the following error message:
 
-	Terminating app due to uncaught exception 'NSGenericException', reason: 'UIPopoverPresentationController () should have a non-nil sourceView or barButtonItem set before the presentation occurs.'
+	Terminating app due to uncaught exception 'NSGenericException', 
+	reason: 'UIPopoverPresentationController () should have a non-nil sourceView or barButtonItem set 
+	before the presentation occurs.'
 	
 Apple already has an (still open) bug report pending to fix this issue.
 
