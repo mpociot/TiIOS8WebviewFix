@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D585312C-6DA0-4B52-BDEC-006ED373F4CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiIOS8WebviewFIx</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9480E3E88E15BFFA87B0DB4CC887DEB3B6A28708</key>
+		<string>github.com:mpociot/TiIOS8WebviewFix.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone/TiIOS8WebviewFIx.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9480E3E88E15BFFA87B0DB4CC887DEB3B6A28708</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mpociot/TiIOS8WebviewFix.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9480E3E88E15BFFA87B0DB4CC887DEB3B6A28708</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9480E3E88E15BFFA87B0DB4CC887DEB3B6A28708</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiIOS8WebviewFix</string>
+		</dict>
+	</array>
+</dict>
+</plist>
